@@ -34,3 +34,4 @@ Java Client Library,https://github.com/prometheus/client_java,1,Library
 Python Client Library,https://github.com/prometheus/client_python,1,Library
 Ruby Client Library,https://github.com/prometheus/client_ruby,1,Library
 Push Gateway,https://github.com/prometheus/pushgateway,1,Monitoring
+Klevery, https://github.com/Klevry/klevr,0,Monitoring
